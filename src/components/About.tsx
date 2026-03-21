@@ -3,9 +3,9 @@ import { useRef } from "react";
 import { motion, useInView } from "framer-motion";
 
 const team = [
-  { initial: "F", name: "Fatos Berisha", role: "Geschäftsführer & Bauleiter", color: "from-[#8a6020] to-[#c9a84c]" },
-  { initial: "A", name: "Artan Berisha", role: "Projektleiter Hochbau", color: "from-[#2d5016] to-[#4a8a22]" },
-  { initial: "E", name: "Elvira Berisha", role: "Projektkoordination & Kundenbetreuung", color: "from-[#16304a] to-[#1e5080]" },
+  { initial: "A", name: "Albion Berisha", role: "Bauleiter", color: "from-[#8a6020] to-[#c9a84c]" },
+  { initial: "S", name: "Sami Berisha", role: "Geschäftsführer", color: "from-[#2d5016] to-[#4a8a22]" },
+  { initial: "A", name: "Arlinda Berisha", role: "Kundenbetreuung", color: "from-[#16304a] to-[#1e5080]" },
 ];
 
 const certs = [
